@@ -2,7 +2,7 @@
 
 ## Team Members:
  - Dani Amir
- - Christopher Rics
+ - Christopher Rice
  - Syed Husain
  - Gabe Cunio
 
